@@ -11,7 +11,7 @@ colors:
   muted: "#a6a69c"
   lime: "#d4ff2a"
   on-lime: "#0f0f0f"
-  on-lime-2: "#3d4d00"
+  on-lime-2: "#ccff00"
   coral: "#ff5c5c"
   on-coral: "#1a0505"
   on-coral-2: "#5c1010"
